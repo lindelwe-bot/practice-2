@@ -1,0 +1,33 @@
+#hero {
+  height: 100vh;
+  width: 100%;
+  background: url(../images/header.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+
+#a {
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+  display: grid;
+}
+
+#a:hover {
+  color: aliceblue;
+  -webkit-text-decoration: dotted;
+          text-decoration: dotted;
+  background-color: antiquewhite;
+}
+
+#hero-inner {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+#about-innercontainer {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
